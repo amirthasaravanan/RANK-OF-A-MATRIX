@@ -18,7 +18,7 @@ print(solution)
 ```
 ## Output:
 
-![Screenshot (2004)](https://github.com/user-attachments/assets/625b82ce-64ad-4b2b-8a56-119496534e9f)
+![ED EX 2](https://github.com/user-attachments/assets/ba44ee0a-ff42-4e86-9c5b-14bf1fca3451)
 
 
 ## Result:
